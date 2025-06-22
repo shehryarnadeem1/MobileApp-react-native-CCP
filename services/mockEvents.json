@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Tech Expo 2024",
+      "time": "10:00 AM",
+      "venue": "Auditorium A",
+      "category": "Tech",
+      "description": "Explore the latest innovations from CS students."
+    },
+    {
+      "id": 2,
+      "name": "Campus Football Finals",
+      "time": "04:00 PM",
+      "venue": "Main Ground",
+      "category": "Sports",
+      "description": "Inter-department football championship."
+    },
+    {
+      "id": 3,
+      "name": "Literature Society Meetup",
+      "time": "2:00 PM",
+      "venue": "Room B12",
+      "category": "Culture",
+      "description": "Poetry, storytelling, and more!"
+    }
+  ]
+  
